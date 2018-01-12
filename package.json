@@ -1,6 +1,6 @@
 {
   "name": "gladys-networkscanner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Gladys Network Scanner",
   "main": "index.js",
   "scripts": {
