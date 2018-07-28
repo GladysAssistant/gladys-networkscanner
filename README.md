@@ -10,6 +10,6 @@ To install this module :
 
 - Be sure **nmap** is installed on your system. On any Linux system, execute `sudo apt-get install nmap` on your machine.
 - Install the module in Gladys
-- Create a Gladys Param in `Parametres` => `Parametres` with name `NETWORK_SCANNER_HOSTS`. Put inside the IP range you want to scan at home. For example, you can put `192.168.1.0/25` if your IP looks like 192.168.1.1 in your local network. You can put several IP separated with comas.
-- Create a Gladys param with name `NETWORK_SCANNER_FREQUENCY_IN_MINUTE` to define the frequency in minute to scan your network.
+- In `Parametres` => `Parametres` , configure `NETWORK_SCANNER_HOSTS` according to your network.
+- Adapt `NETWORK_SCANNER_FREQUENCY_IN_MINUTE` to define the frequency in minute to scan your network.
 - Reboot Gladys
